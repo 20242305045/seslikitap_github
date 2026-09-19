@@ -1,0 +1,7 @@
+{
+  "name": "Antigravity Sesli Kitap & Podcast",
+  "description": "Antigravity ve Google Search destekli akıllı arama ve içerik keşfi; yeni sesli kitap ve podcast ekleme, zaman damgalı not alma, dinleme hızı ayarı, bildirimler ve kaldığı yerden devam etme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
